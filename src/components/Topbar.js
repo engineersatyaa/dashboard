@@ -114,7 +114,7 @@ const Topbar = ({ menuOpen, setMenuOpen }) => {
     <Container>
       <Wrapper>
         <LeftContainer>
-          <span>Admin Dashboard</span>
+          <span>Admin Dashboard Penal</span>
           <div
             className={`hamburger ${menuOpen && "active"}`}
             onClick={() => setMenuOpen(!menuOpen)}
