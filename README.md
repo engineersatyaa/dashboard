@@ -6,7 +6,7 @@ Responsive Admin Dashboard created with the help of React JS, Styled Components 
  
 ## Author
 
-- [SATYA PAL SINGH aka SAMEER JADAUN](https://www.naukri.com/mnjuser/profile?id=&orgn=homepage)
+- [SATYA PAL SINGH](https://www.naukri.com/mnjuser/profile?id=&orgn=homepage)
 
 
 ## Demo
